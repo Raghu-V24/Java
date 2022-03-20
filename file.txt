@@ -1,3 +1,7 @@
 hi all 
 everyone
 bye
+F1 
+F2
+f3
+f4
